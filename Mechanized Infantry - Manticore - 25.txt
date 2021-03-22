@@ -1,0 +1,60 @@
+
+++ Patrol Detachment 0CP (Imperium - Astra Militarum) [25 PL, 2CP, 537pts] ++
+
++ Configuration +
+
+Battle Size [3CP]: 1. Combat Patrol (0-50 Total PL / 0-500 Points) 
+. Categories: Configuration
+
+Detachment Command Cost
+. Categories: Configuration
+
+Regimental Doctrine: Regiment: Armageddon
+. Categories: Configuration
+
++ Stratagems +
+
+Tank Ace [-1CP]
+. Categories: Stratagems
+
++ HQ +
+
+Company Commander [2 PL, 42pts]: Bolt pistol, Display Astra Militarum Orders, Frag grenades, Power sword, Relic: The Laurels of Command, Warlord
+. Categories: Officer, Character, Company Commander, Faction: <REGIMENT>, Faction: Imperium, Infantry, HQ, Warlord
+
++ Troops +
+
+Conscripts [5 PL, 100pts]
+. Categories: Conscript, Faction: <REGIMENT>, Faction: Imperium, Infantry, Troops
+. 20x Conscript: 20x Lasgun
+
+Infantry Squad [3 PL, 75pts]
+. Categories: Faction: <REGIMENT>, Faction: Imperium, Infantry Squad, Infantry, Troops
+. 6x Guardsman: 6x Lasgun
+. Guardsman W/ Special Weapon: Plasma gun
+. Heavy Weapon Team: Lasgun, Missile launcher
+. Sergeant: Chainsword, Laspistol
+
++ Elites +
+
+Ambots - Bullgryns [5 PL, 105pts]
+. Categories: Faction: Militarum Auxilla, Faction: Imperium, Bullgryns, Infantry, Ogryn, Elites
+. Bullgryn: Bullgryn Maul, Frag Bombs, Slabshield
+. Bullgryn: Bullgryn Maul, Frag Bombs, Slabshield
+. Bullgryn Bone 'ead: Bullgryn Maul, Frag Bombs, Slabshield
+
+Command Squad [2 PL, 65pts]
+. Categories: Command Squad, Faction: <REGIMENT>, Faction: Imperium, Infantry, Veterans, Faction: Astra Militarum, Elites
+. Veteran w/ Special Weapon: Frag grenades, Meltagun
+. Veteran w/ Special Weapon: Frag grenades, Meltagun
+. Veteran w/ Special Weapon: Frag grenades, Meltagun
+. Veteran w/ Special Weapon: Frag grenades, Meltagun
+
++ Heavy Support +
+
+Manticore [8 PL, 150pts]: Full Payload, Heavy Bolter, Hunter-Killer Missile, Stat Damage (HS), 4x Storm Eagle Rockets
+. Categories: Faction: <REGIMENT>, Faction: Imperium, Manticore, Vehicle, Faction: Astra Militarum, Heavy Support
+
+++ Total: [25 PL, 2CP, 537pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
